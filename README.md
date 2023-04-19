@@ -1,25 +1,4 @@
-# Curriculo
-# Atividade curriculo 
 
-##
-<div style="display: flex; align-items: center;">
-  <img src="https://i.pinimg.com/564x/74/71/f6/7471f6980e18d630e1f8fe696d548343.jpg" alt="texto alternativo da imagem" width="120px" height="120px" style="margin-right: 10px;" />
-  <h2>João Victor Medeiros dos Santos </h2>
-</div>
-
----
-## DADOS PESSOAIS
-Data de Nascimento: _20/11/2004_
-
-Estado: sem dinheiro 🤪
-
----
-## CONTATO
-Telefone: **(14)568-2955**
-
-Email: _Emailexemplo@gmail.com_
-
----
 ### FORMAÇÃO ESCOLAR 
 
 em processo!
